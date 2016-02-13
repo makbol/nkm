@@ -1,0 +1,22 @@
+{
+  "name": "nkm",
+  "version": "0.2.0",
+  "description": "\"Just to save deps\"",
+  "main": "nkm.user.js",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint nkm.user.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makbol/nkm.git"
+  },
+  "author": "Maksymilian Bolek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makbol/nkm/issues"
+  },
+  "homepage": "https://github.com/makbol/nkm#readme",
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  }
+}

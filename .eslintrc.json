@@ -1,0 +1,23 @@
+{
+  "rules": {
+    "indent": [2, 2],
+    "quotes": [2, "single"],
+    "linebreak-style": [2, "unix"],
+    "semi": [1, "always"]
+  },
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "globals": {
+    "self": true,
+    "top": true,
+    "localStorage": true,
+    "document": true,
+    "$": true,
+    "moment": true,
+    "_": true,
+    "alert": true
+  },
+  "extends": "eslint:recommended"
+}
