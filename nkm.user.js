@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         nkm
 // @namespace    nkm
-// @version      0.1
+// @version      0.2.0
 // @description  Archive your messages
 // @author       Maksymilian Bolek
 // @homepage     https://github.com/makbol/nkm
 // @supportURL   https://github.com/makbol/nkm/issues
+// @updateURL    https://raw.githubusercontent.com/makbol/nkm/master/nkm.user.js
+// @downloadURL  https://raw.githubusercontent.com/makbol/nkm/master/nkm.user.js
 // @match        http://nk.pl/*
 // @grant        none
 // @run-at       document-idle
