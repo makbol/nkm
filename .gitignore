@@ -1,0 +1,29 @@
+# Logs
+.idea
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+front/lib
+
+# Debug log from npm
+npm-debug.log
+
+# Generated
+public
+
+# Personal
+.env
+# Created by https://www.gitignore.io/api/vim
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# DB files
+db
+
