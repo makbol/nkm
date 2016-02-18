@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/makbol/nkm.git"
   },
-  "author": "Maksymilian Bolek",
+  "author": "makbol",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/makbol/nkm/issues"
